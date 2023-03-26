@@ -6,7 +6,7 @@
 
 body {
     height: 100vh;
-    background-color: rgb(0, 225, 255);
+    background-color: rgb(255, 4, 4);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,7 +37,7 @@ section {
 }
 
 .back {
-    background-color: rgb(45, 11, 238);
+    background-color: rgb(255, 40, 201);
     backface-visibility: hidden;
 }
 
